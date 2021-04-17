@@ -1,2 +1,1 @@
-# Practical-1
-List, Dictionary, DataFrames, Numpy, Scipy
+# Machine Learning Practical
